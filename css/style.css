@@ -292,7 +292,7 @@ span.avatar .container .subtitle{
   }
 
   #logo_text h2 {
-    font-size: 100%;
+    font: normal 180% 'News Cycle', arial, sans-serif;
     padding: 0 0 0 0;
     color: #888;
   }
