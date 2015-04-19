@@ -299,15 +299,9 @@ span.avatar .container .subtitle{
 
   nav {
     height: 44px;
-    /*width: 100%;*/
-    /*float: right;*/
-    /*margin: -20px 0px 0 auto;*/
+    border-radius: 15px 15px 0 0;
     color: #222;
     background-color: whitesmoke;
-    /* border-bottom: 1px solid #bbb; */
-    /* -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px; */
-    -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
-    /* box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px; */
   }
 
   #site_content {
@@ -665,7 +659,6 @@ span.avatar .container .subtitle{
       background-color: whitesmoke;
     }
     ul#nav li a {
-      border-radius: 15px 15px 0 0;
       padding: 7px 25px 6px 25px;
       font: 170% 'Yanone Kaffeesatz', arial, sans-serif;
       text-decoration: none;
