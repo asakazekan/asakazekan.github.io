@@ -657,6 +657,7 @@ span.avatar .container .subtitle{
     }
     ul#nav > li {
       background-color: whitesmoke;
+      border-radius: 15px 15px 0 0;
     }
     ul#nav li a {
       padding: 7px 25px 6px 25px;
