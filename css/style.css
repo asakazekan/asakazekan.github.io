@@ -405,12 +405,14 @@ span.avatar .container .subtitle{
     -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;
     box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 2px;*/
     background: #FFF9F0;
+    border-radius: 0 15px 15px 15px;
   }
 
   footer p {
     line-height: 1.7em;
     padding: 0;
     margin: 0;
+    padding-left: 10px;
   }
 
   footer a {
@@ -661,7 +663,7 @@ span.avatar .container .subtitle{
     }
     ul#nav li a {
       padding: 7px 25px 6px 25px;
-      font: 160% 'Yanone Kaffeesatz', arial, sans-serif;
+      font: 170% 'Yanone Kaffeesatz', arial, sans-serif;
       text-decoration: none;
       color: #000;
       margin-right: 2px;
