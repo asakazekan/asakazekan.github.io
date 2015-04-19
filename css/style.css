@@ -324,6 +324,7 @@ span.avatar .container .subtitle{
     height: 100%;
     padding: 25px 0 0 0;
     background-color: rgba(255,255,255,0.4);
+    border-radius: 15px;
   }
 
   .sidebar {
