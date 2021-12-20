@@ -415,12 +415,9 @@ span.avatar .container .subtitle{
     padding: 0;
     margin: 0;
     padding-left: 10px;
-  }
-  
-  footer ul li {
     list-style: none;
   }
-
+  
   footer a {
     color: #000;
     text-decoration: none;
