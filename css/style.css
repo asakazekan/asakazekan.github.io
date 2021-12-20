@@ -409,6 +409,13 @@ span.avatar .container .subtitle{
     margin: 0;
     padding-left: 10px;
   }
+  
+  footer ul {
+    line-height: 1.7em;
+    padding: 0;
+    margin: 0;
+    padding-left: 10px;
+  }
 
   footer a {
     color: #000;
