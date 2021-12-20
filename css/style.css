@@ -410,6 +410,10 @@ span.avatar .container .subtitle{
     padding-left: 10px;
   }
 
+  footer ul li {
+    list-style-type: none;
+  }
+
   footer ul {
     line-height: 1.7em;
     padding: 0;
