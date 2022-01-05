@@ -421,6 +421,15 @@ span.avatar .container .subtitle{
     padding-left: 10px;
     list-style: none;
   }
+
+  footer .footer_link {
+    text-align: center;
+  }
+
+  footer .footer_link a {
+    text-decoration: underline;
+    color: #63a892;
+  }
   
   footer a {
     color: #000;
