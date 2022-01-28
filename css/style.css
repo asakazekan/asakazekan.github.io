@@ -380,13 +380,16 @@ span.avatar .container .subtitle{
     margin: 0 0 0 0;
     padding: 0 0 4px 28px;
     line-height: 1.5em;
+    background-size: 15px 15px;
   }
   #fb li {
-    background: url(../images/fb.png) no-repeat;
+    background: url(../images/facebook.jpg) no-repeat;
+    background-size: 15px 15px;
   }
 
   #phone li {
     background: url(../images/phone.png) no-repeat;
+    background-size: 15px 15px;
   }
 
   footer {
